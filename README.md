@@ -1,6 +1,6 @@
 <img align="right" height="30" width="40" src="https://www.svgrepo.com/show/508668/flag-us.svg" alt="English">
 
-# Shortly-Website
+# Shortly-Website [<img height="60" width="70" src="https://www.svgrepo.com/show/293033/click.svg">](https://websiteshortly.netlify.app/)
 
 This repository contains the source code of a website developed in HTML, Tailwind CSS, and JavaScript. The website is a pre-styled prototype designed for shortening links. It offers a visually appealing and responsive layout, making it easy to integrate into various projects or use as a standalone solution.
 
@@ -101,7 +101,7 @@ To view the website locally, you can use Visual Studio Code with the GoLive exte
 <hr>
 <img align="right" height="30" width="40" src="https://www.svgrepo.com/show/405433/flag-for-flag-brazil.svg" alt="Portugues">
 
-# Shortly-Website
+# Shortly-Website [<img height="60" width="70" src="https://www.svgrepo.com/show/293033/click.svg">](https://websiteshortly.netlify.app/)
 
 Este repositório contém o código-fonte de um site desenvolvido em HTML, Tailwind CSS e JavaScript. O site é um protótipo pré-estilizado projetado para encurtar links. Ele oferece um layout visualmente atraente e responsivo, facilitando a integração em vários projetos ou o uso como uma solução autônoma.
 
